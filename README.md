@@ -12,6 +12,22 @@ This API allows users to virtually try on clothing. The system takes two images 
 
 ---
 
+### Example Results
+
+Here are some example results from our Virtual Try-On API:
+
+#### Input Images
+![Input Images](results/input_try_on.png)
+*Left: Person Image | Right: Clothing Image*
+
+#### Target Clothing
+![Target Clothing](results/target_try_on.png)
+*Target clothing item used in the try-on*
+
+#### Output Result
+![Output Result](results/result2.png)
+*Final Result: Person wearing the selected clothing item*
+
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Create & Activate Virtual Environment
@@ -131,23 +147,6 @@ Checks the processing status of an image processing task.
 ```
 
 ## 🎯 Results Showcase
-
-### Example Results
-
-Here are some example results from our Virtual Try-On API:
-
-#### Input Images
-![Input Images](results/input_try_on.png)
-*Left: Person Image | Right: Clothing Image*
-
-#### Target Clothing
-![Target Clothing](results/target_try_on.png)
-*Target clothing item used in the try-on*
-
-#### Output Result
-![Output Result](results/result2.png)
-*Final Result: Person wearing the selected clothing item*
-
 
 
 ### Key Features Demonstrated
